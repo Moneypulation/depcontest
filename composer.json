@@ -1,8 +1,7 @@
 {
-    "name": "moneypulation/bla",
+    "name": "moneypulation/depcontest",
     "type": "library",
     "require": {
-        "moneypulation/depcontest" : "*"
     },
-    "version": "1.2"
+    "version": "2.2"
 }
