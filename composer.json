@@ -1,11 +1,9 @@
 {
-    "name": "moneypulation/bla",
+    "name": "moneypulation/depcontest",
     "type": "library",
     "require": {
-        "psr/log" : "*",
-        "moneypulation/depcontest" : "2.2"
     },
-    "version": "2.2",
+    "version": "4.2",
     "repositories": [
         {"type": "composer", "url": "https://moneypulation.repo.repman.io"}
     ]
